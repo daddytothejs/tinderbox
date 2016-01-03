@@ -1,0 +1,23 @@
+{
+    "zippo-lighting": {
+        "category": "master",
+        "sounds": [{
+            "name": "zippo-lighting",
+            "stream": false
+        }]
+    },
+    "zippo-open": {
+        "category": "master",
+        "sounds": [{
+            "name": "zippo-open",
+            "stream": false
+        }]
+    },
+    "zippo-close": {
+        "category": "master",
+        "sounds": [{
+            "name": "zippo-close",
+            "stream": false
+        }]
+    }
+}

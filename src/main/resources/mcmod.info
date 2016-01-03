@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ZipposEtc",
+  "name": "Zippos Etc",
+  "description": "This is a Zippo mod.",
+  "version": "0.1.1",
+  "mcversion": "1.8.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["daddytothejs", "Colinator007"],
+  "credits": "Big up to Red Crisis Gaming!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

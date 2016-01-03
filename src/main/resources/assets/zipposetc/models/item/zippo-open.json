@@ -1,0 +1,6 @@
+{
+    "parent": "zipposetc:item/zippo",
+    "textures": {
+        "layer0": "zipposetc:items/zippo-open"
+    }
+}
